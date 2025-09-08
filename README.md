@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush25-28
 - 👀 I’m interested in coding , developing
--  I have completed my BCA from S. Sinha college Aurnagabad Bihar
+- I'm a developer and i build more thann 2 project like Automated email, online toll management, online quiz application.
 -  I am pursuing my MCA from Graohic Era University Dehradun Uttrakhand
 -  
 <!---
